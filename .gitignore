@@ -1,0 +1,11 @@
+# Local settings can contain the user's game installation path.
+/settings.json
+/backend.json
+/backend/
+/cache/
+
+# Temporary files and editor settings.
+*.tmp
+/.vscode/
+/.idea/
+/work/
